@@ -1,0 +1,12 @@
+
+public class RoomCalculator {
+
+	public static void main(String[] args) {
+		System.out.println("Thank you for using the Room Calculator!");
+		
+		System.out.println("Please enter the length of the room: ");
+		System.out.println("Please enter the width of the room: ");
+		
+	}
+
+}
